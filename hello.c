@@ -1,6 +1,6 @@
 void main(){
 
-printf("hello world");
+printf("hello world");//输出hello world
 
 
 }
